@@ -6,7 +6,7 @@ I am a passionate software developer with expertise in Ruby on Rails, ReactJS, G
 
 ## Skills
 
-- 💎 **Programming Languages**: Ruby on Rails, ReactJS, GraphQL, JavaScript
+- 💎 **Programming Languages**: Ruby, GraphQL, JavaScript
 - 🚀 **Frameworks and Libraries**: Ruby on Rails, ReactJS
 - 🌐 **Web Development**: HTML, CSS, SCSS
 - 🗄️ **Databases**: MySQL, PostgreSQL
