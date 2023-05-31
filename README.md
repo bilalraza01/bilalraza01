@@ -26,8 +26,8 @@ Ello Works is a project that I have contributed to. It involved building a robus
 
 ## Lets connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-mudassir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/bilal-raza-863650253/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BTcAKsHlrQMK%2FXfZ48MFv%2Bg%3D%3D)
-[![Gmail Badge](https://img.shields.io/badge/-mudassir-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bilal.raza.eng@gmail.com)](mailto:bilal.raza.eng@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-bilalraza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/bilal-raza-863650253/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BTcAKsHlrQMK%2FXfZ48MFv%2Bg%3D%3D)
+[![Gmail Badge](https://img.shields.io/badge/-bilalraza-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bilal.raza.eng@gmail.com)](mailto:bilal.raza.eng@gmail.com)
 
 
 Thank you for visiting my GitHub profile! ✨
